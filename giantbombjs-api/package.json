@@ -1,0 +1,14 @@
+{
+  "name": "giantbombjs-api",
+  "version": "1.0.0",
+  "description": "Module for interacting with Giantbomb API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Benson",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^7.1.1"
+  }
+}
